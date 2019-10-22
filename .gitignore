@@ -23,5 +23,6 @@
 *.out
 *.app
 
-build/
 *.swp
+
+**/.DS_store
